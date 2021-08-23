@@ -8,7 +8,7 @@ public class equivmonth {
         switch(n)
         {
             case 1 : 
-                System.out.println("1 is for January");
+                System.out.println("1 is for the January");
                 break;
             case 2 : 
                 System.out.println("2 is for February");
